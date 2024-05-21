@@ -1,0 +1,19 @@
+.basic {
+  background-color: pink;
+  font-family: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+.basic.cool {
+  font-size: 24px;
+}
+
+#unique-one {
+  color: blue;
+  font-size: 36px;
+}
+
+#unique-two {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
